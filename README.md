@@ -5,5 +5,6 @@ I am learning Build Movie App microservices Go Language from different Video Cou
 ## Few Commands
 
 ```powershell
+go mod init movieappingo
 
 ```
